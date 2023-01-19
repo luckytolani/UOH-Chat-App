@@ -1,3 +1,3 @@
 # UOH-Chat-App
 
-https://uohchat.herokuapp.com/
+https://chap-app-gro6.onrender.com
